@@ -20,7 +20,7 @@ function App() {
             <JobDetails />
             <CompanyInfo />
           </div>
-          <div className="w-1/4">
+          <div className="w-[23%]">
             <Sidebar />
           </div>
         </div>

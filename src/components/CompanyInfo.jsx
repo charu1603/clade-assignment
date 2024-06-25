@@ -3,7 +3,7 @@ import logo2 from '../assets/logo2.png';
 
 const CompanyInfo = () => {
   return (
-    <section className="px-20 py-8 bg-white border border-gray-300">
+    <section className="px-20 py-8 bg-white border-r border-gray-300">
       <div className="flex items-center space-x-2 mb-4">
         <div className="rounded-full">
          <img src={logo2}></img>
